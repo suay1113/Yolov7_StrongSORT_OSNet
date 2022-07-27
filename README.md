@@ -1,4 +1,4 @@
-# Yolov5 + StrongSORT with OSNet
+# Yolov5/Yolov7 + StrongSORT with OSNet
 
 
 

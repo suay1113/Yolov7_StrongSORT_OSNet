@@ -1,3 +1,5 @@
 .vscode/
 weights/
 runs/
+traced_model.pt
+.ipynb_checkpoints
